@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: João Miguel Aguiar Alkmim
+Matricula: 677793
 
 ## Tela de inspeção com navegador
-
+![alt text](<Elementos Youtube.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Hello world.png>)
